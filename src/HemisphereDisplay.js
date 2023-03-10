@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Hemisphere.css";
 import North from './images/North.png';
-import South from './images/North.png';
+import South from './images/South.png';
 
 const hemisphereConfig = {
     Northern: {
